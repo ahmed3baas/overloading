@@ -1,0 +1,19 @@
+﻿'overloading.exe' (Win32): Loaded 'C:\Users\Turbo\source\repos\overloading\Debug\overloading.exe'. Symbols loaded.
+'overloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'overloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'overloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'overloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'overloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'overloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x730 has exited with code 0 (0x0).
+'overloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'overloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'overloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'overloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'overloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'overloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'overloading.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x1f24 has exited with code 0 (0x0).
+The thread 0x360 has exited with code 0 (0x0).
+The thread 0x8d8 has exited with code 0 (0x0).
+The program '[4432] overloading.exe' has exited with code 0 (0x0).
